@@ -4,3 +4,4 @@ description: Here I will post all my projects updates.
 
 name: NeBeWu
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
